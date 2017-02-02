@@ -15,6 +15,9 @@ def get_num(string,start=5):
 
 
 def move_vertt(loc, direction):
-    if direction in ('U','D'):
         for i in keypad_down:
             if loc in i:
+                if direction == 'U'
+
+def move_horiz(loc, direction):
+    
